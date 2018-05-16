@@ -5,7 +5,7 @@ class Index
 {
     public function index()
     {
-      return 'hello word';
+      return 'hello word';//新加一行
     }
 
     public function hello($name = 'ThinkPHP5')
